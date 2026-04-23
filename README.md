@@ -433,7 +433,6 @@ python agent.py  # Runs demo conversation automatically
 - [ ] Mobile app deployment
 
 ## 📄 License
-
 This project is part of a ServiceHive Machine Learning Intern assignment.
 
 ---
